@@ -47,7 +47,7 @@
   </url>
   
   <url>
-    <loc>http://butterfly.kuhehe.top/box/gallery/index.html</loc>
+    <loc>http://butterfly.kuhehe.top/box/animation/index.html</loc>
     
     <lastmod>2023-03-05</lastmod>
     
@@ -57,6 +57,15 @@
   
   <url>
     <loc>http://butterfly.kuhehe.top/life/games/index.html</loc>
+    
+    <lastmod>2023-03-05</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>http://butterfly.kuhehe.top/box/gallery/index.html</loc>
     
     <lastmod>2023-03-05</lastmod>
     
@@ -83,24 +92,6 @@
   </url>
   
   <url>
-    <loc>http://butterfly.kuhehe.top/social/fcircle/index.html</loc>
-    
-    <lastmod>2023-03-05</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>http://butterfly.kuhehe.top/box/animation/index.html</loc>
-    
-    <lastmod>2023-03-05</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
     <loc>http://butterfly.kuhehe.top/life/music/index.html</loc>
     
     <lastmod>2023-03-05</lastmod>
@@ -119,7 +110,7 @@
   </url>
   
   <url>
-    <loc>http://butterfly.kuhehe.top/site/time/index.html</loc>
+    <loc>http://butterfly.kuhehe.top/social/fcircle/index.html</loc>
     
     <lastmod>2023-03-05</lastmod>
     
@@ -129,6 +120,15 @@
   
   <url>
     <loc>http://butterfly.kuhehe.top/site/census/index.html</loc>
+    
+    <lastmod>2023-03-05</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>http://butterfly.kuhehe.top/site/time/index.html</loc>
     
     <lastmod>2023-03-05</lastmod>
     
