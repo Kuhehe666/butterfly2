@@ -47,24 +47,6 @@
   </url>
   
   <url>
-    <loc>https://kuhehe666.github.io/butterfly2/box/animation/index.html</loc>
-    
-    <lastmod>2023-03-05</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>https://kuhehe666.github.io/butterfly2/box/gallery/index.html</loc>
-    
-    <lastmod>2023-03-05</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
     <loc>https://kuhehe666.github.io/butterfly2/tags/index.html</loc>
     
     <lastmod>2023-03-05</lastmod>
@@ -83,25 +65,25 @@
   </url>
   
   <url>
+    <loc>https://kuhehe666.github.io/butterfly2/box/animation/index.html</loc>
+    
+    <lastmod>2023-03-05</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://kuhehe666.github.io/butterfly2/box/gallery/index.html</loc>
+    
+    <lastmod>2023-03-05</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
     <loc>https://kuhehe666.github.io/butterfly2/site/census/index.html</loc>
-    
-    <lastmod>2023-03-05</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>https://kuhehe666.github.io/butterfly2/life/music/index.html</loc>
-    
-    <lastmod>2023-03-05</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>https://kuhehe666.github.io/butterfly2/life/games/index.html</loc>
     
     <lastmod>2023-03-05</lastmod>
     
@@ -119,7 +101,25 @@
   </url>
   
   <url>
+    <loc>https://kuhehe666.github.io/butterfly2/life/games/index.html</loc>
+    
+    <lastmod>2023-03-05</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
     <loc>https://kuhehe666.github.io/butterfly2/life/movies/index.html</loc>
+    
+    <lastmod>2023-03-05</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://kuhehe666.github.io/butterfly2/life/music/index.html</loc>
     
     <lastmod>2023-03-05</lastmod>
     
