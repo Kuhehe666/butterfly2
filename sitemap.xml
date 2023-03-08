@@ -56,7 +56,7 @@
   </url>
   
   <url>
-    <loc>https://kuhehe666.github.io/butterfly2/box/nav/index.html</loc>
+    <loc>https://kuhehe666.github.io/butterfly2/box/animation/index.html</loc>
     
     <lastmod>2023-03-05</lastmod>
     
@@ -65,7 +65,7 @@
   </url>
   
   <url>
-    <loc>https://kuhehe666.github.io/butterfly2/box/animation/index.html</loc>
+    <loc>https://kuhehe666.github.io/butterfly2/box/nav/index.html</loc>
     
     <lastmod>2023-03-05</lastmod>
     
@@ -83,7 +83,7 @@
   </url>
   
   <url>
-    <loc>https://kuhehe666.github.io/butterfly2/life/games/index.html</loc>
+    <loc>https://kuhehe666.github.io/butterfly2/life/movies/index.html</loc>
     
     <lastmod>2023-03-05</lastmod>
     
@@ -92,7 +92,16 @@
   </url>
   
   <url>
-    <loc>https://kuhehe666.github.io/butterfly2/life/movies/index.html</loc>
+    <loc>https://kuhehe666.github.io/butterfly2/personal/bb/index.html</loc>
+    
+    <lastmod>2023-03-05</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
+    <loc>https://kuhehe666.github.io/butterfly2/life/games/index.html</loc>
     
     <lastmod>2023-03-05</lastmod>
     
@@ -120,15 +129,6 @@
   
   <url>
     <loc>https://kuhehe666.github.io/butterfly2/site/time/index.html</loc>
-    
-    <lastmod>2023-03-05</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>https://kuhehe666.github.io/butterfly2/personal/bb/index.html</loc>
     
     <lastmod>2023-03-05</lastmod>
     
